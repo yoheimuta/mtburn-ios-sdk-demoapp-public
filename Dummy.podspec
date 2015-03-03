@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Sample library, not exist"
-  s.version      = "10.0.6"
+  s.version      = "10.0.7"
   s.summary      = "SDK for iOS"
   s.homepage     = "https://github.com/yoheimuta/mtburn-ios-sdk-demoapp-public"
   s.license      = {
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.source = {
       :git => "https://github.com/yoheimuta/mtburn-ios-sdk-demoapp-public",
-      :tag => "v10.0.6"
+      :tag => "v10.0.7"
   }
   s.vendored_frameworks = 'AppDavis.framework'
 
